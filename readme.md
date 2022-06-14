@@ -2,8 +2,6 @@ The winconsin dataset was created by Dr.William, W.Nick street,Olvi L.Mangasaria
 
 This dataset contains 32 attributes the number of datapoints in this dataset is 569.
 This dataset is licenced under Open souce.
- #   Column                   Non-Null Count  Dtype  
----  ------                   --------------  -----  
  0   id                        
  1   diagnosis                 
  2   radius_mean              
